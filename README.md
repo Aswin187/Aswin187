@@ -31,9 +31,12 @@ Self-Taught Working To Become A Full-Stack-Web Development in MERN.
 <p align="left"> <a href="https://www.facebook.com/aswin.popz.7564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aswin187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aswin._.p/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aswin-p-293420218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aswin1807" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
+Badges
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Aswin187"><img src="https://github-readme-stats.vercel.app/api?username=Aswin187&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="Aswin187's GitHub stats" /></a>
 
+<a href="http://www.github.com/Aswin187"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin187&stroke=ffffff&background=581c87&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+<a href="http://www.github.com/Aswin187"><img src="https://activity-graph.herokuapp.com/graph?username=Aswin187&bg_color=581c87&color=ffffff&line=facc15&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
