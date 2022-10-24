@@ -8,7 +8,6 @@ Self-Taught Working To Become A Full-Stack-Web Development .
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aswinachu9572@gmail.com](mailto:aswinachu9572@gmail.com)
-* 🚀  I'm currently working on [EKart Restaurant 🍴](http://127.0.0.1:8000/Ekartapp)
 * 🧠  I'm learning Python Django
 * 🤝  I'm open to collaborating on Front-End
 * ⚡  Intrested in Coding but not pro...
