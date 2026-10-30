@@ -12,9 +12,10 @@ HOST = "github"
 
 # (key, value) rows. A key of None draws a blank spacer line.
 ROWS = [
-    ("Role", "Senior Software Engineer · 4+ yrs"),
-    ("Now", "Senior Software Engineer @ UK-based company"),
-    ("Prev", "KurlTech Systems · HR Geckos (US, remote)"),
+    ("Role", "Senior Software Engineer · 5+ yrs"),
+    ("Now", "Senior Software Engineer @ Extension Architecture"),
+    ("Prev", "KurlTech Systems Pvt Ltd · HR Geckos (US, remote)"),
+    ("", "Chillar Payment Solution Pvt Ltd"),
     ("Location", "Palakkad, Kerala, India"),
     (None, None),
     ("Core", "React · Next.js · TypeScript · Node.js"),
@@ -32,7 +33,7 @@ W, H = 735, 546
 PAD_X = 28
 FONT = 15
 LH = 25
-TOP = 86
+TOP = 74
 KEY_W = 11  # key column width in characters
 CW = FONT * 0.6
 
@@ -83,11 +84,11 @@ def build(static: bool) -> str:
         if key is None:
             y += LH * 0.5
             continue
-        inner = (
+        label = (  # an empty key continues the previous row's value
             f'<text x="{PAD_X}" y="{y}"><tspan fill="{ACCENT}" font-weight="bold">{escape(key)}</tspan>'
-            f'<tspan fill="{MUTED}">:</tspan></text>'
-            f'<text x="{PAD_X + KEY_W * CW}" y="{y}" fill="{TEXT}">{escape(val)}</text>'
+            f'<tspan fill="{MUTED}">:</tspan></text>' if key else ""
         )
+        inner = label + f'<text x="{PAD_X + KEY_W * CW}" y="{y}" fill="{TEXT}">{escape(val)}</text>'
         o.append(line(n, y, inner)); n += 1; y += LH
 
     y += LH * 0.4
