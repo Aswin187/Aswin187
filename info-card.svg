@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 735 546" width="735" height="546" role="img" aria-label="About Aswin P">
+<style>@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}.l{opacity:0;animation:in .45s ease-out both}text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:15px}</style>
+<rect x=".5" y=".5" width="734" height="545" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M10.5 .5h714a10 10 0 0 1 10 10v24H.5v-24a10 10 0 0 1 10-10z" fill="#161b22"/>
+<line x1="0" y1="34.5" x2="735" y2="34.5" stroke="#30363d"/>
+<circle cx="20" cy="17.5" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17.5" r="6" fill="#ffbd2e"/>
+<circle cx="56" cy="17.5" r="6" fill="#27c93f"/>
+<text x="367.5" y="22" text-anchor="middle" fill="#8b949e" font-size="13">aswin@github: ~</text>
+<g class="l" style="animation-delay:0.30s"><text x="28" y="86"><tspan fill="#39d353" font-weight="bold">aswin</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d353" font-weight="bold">github</tspan></text></g>
+<g class="l" style="animation-delay:0.42s"><text x="28" y="111" fill="#8b949e">------------</text></g>
+<g class="l" style="animation-delay:0.54s"><text x="28" y="136"><tspan fill="#58a6ff" font-weight="bold">Role</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="136" fill="#c9d1d9">Full Stack Software Engineer · 4+ yrs</text></g>
+<g class="l" style="animation-delay:0.66s"><text x="28" y="161"><tspan fill="#58a6ff" font-weight="bold">Now</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="161" fill="#c9d1d9">Software Engineer @ KurlTech Systems</text></g>
+<g class="l" style="animation-delay:0.78s"><text x="28" y="186"><tspan fill="#58a6ff" font-weight="bold">Prev</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="186" fill="#c9d1d9">HR Geckos (US, remote) · Chillar Payment</text></g>
+<g class="l" style="animation-delay:0.90s"><text x="28" y="211"><tspan fill="#58a6ff" font-weight="bold">Location</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="211" fill="#c9d1d9">Palakkad, Kerala, India</text></g>
+<g class="l" style="animation-delay:1.02s"><text x="28" y="248.5"><tspan fill="#58a6ff" font-weight="bold">Core</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="248.5" fill="#c9d1d9">React · Next.js · TypeScript · Node.js</text></g>
+<g class="l" style="animation-delay:1.14s"><text x="28" y="273.5"><tspan fill="#58a6ff" font-weight="bold">Data</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="273.5" fill="#c9d1d9">PostgreSQL · MySQL · MongoDB</text></g>
+<g class="l" style="animation-delay:1.26s"><text x="28" y="298.5"><tspan fill="#58a6ff" font-weight="bold">Security</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="298.5" fill="#c9d1d9">JWT · RBAC · OAuth · OWASP Top 10</text></g>
+<g class="l" style="animation-delay:1.38s"><text x="28" y="323.5"><tspan fill="#58a6ff" font-weight="bold">DevOps</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="323.5" fill="#c9d1d9">AWS (EC2, S3) · Docker · GitHub Actions</text></g>
+<g class="l" style="animation-delay:1.50s"><text x="28" y="361.0"><tspan fill="#58a6ff" font-weight="bold">Impact</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="361.0" fill="#c9d1d9">50% faster APIs · 35% faster debugging</text></g>
+<g class="l" style="animation-delay:1.62s"><text x="28" y="386.0"><tspan fill="#58a6ff" font-weight="bold">Quality</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="386.0" fill="#c9d1d9">0 critical regressions in 6 releases</text></g>
+<g class="l" style="animation-delay:1.74s"><text x="28" y="411.0"><tspan fill="#58a6ff" font-weight="bold">Projects</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="411.0" fill="#c9d1d9">HI5 Overseas · Subscription &amp; Payments</text></g>
+<g class="l" style="animation-delay:1.86s"><text x="28" y="436.0"><tspan fill="#58a6ff" font-weight="bold">Open to</tspan><tspan fill="#8b949e">:</tspan></text><text x="127.0" y="436.0" fill="#c9d1d9">Remote &amp; relocation</text></g>
+<g class="l" style="animation-delay:1.98s"><rect x="28" y="457.0" width="26" height="16" rx="2" fill="#ff7b72"/><rect x="58" y="457.0" width="26" height="16" rx="2" fill="#ffa657"/><rect x="88" y="457.0" width="26" height="16" rx="2" fill="#d2a8ff"/><rect x="118" y="457.0" width="26" height="16" rx="2" fill="#79c0ff"/><rect x="148" y="457.0" width="26" height="16" rx="2" fill="#56d364"/><rect x="178" y="457.0" width="26" height="16" rx="2" fill="#39d353"/><rect x="208" y="457.0" width="26" height="16" rx="2" fill="#e3b341"/><rect x="238" y="457.0" width="26" height="16" rx="2" fill="#c9d1d9"/></g>
+</svg>

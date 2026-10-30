@@ -1,73 +1,23 @@
-<h1 align="center">👋 Hi, I'm Aswin P</h1>
-<h3 align="center">🚀 Software Engineer | MERN Stack Developer</h3>
+<div align="center">
 
-<h4>Welcome to my GitHub!</h4>
+<h3><code>aswin@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Aswin's GitHub contribution graph" />
 
-I’m a **Software Engineer** with hands-on industry experience building **scalable, secure, and high-performance web applications**.
-I specialize in **modern frontend development** and also have solid **backend experience**, with a strong focus on **security, performance, and clean architecture**.
+<br><br>
 
----
+<h3><code>aswin@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./aswin-ascii.svg" width="370" alt="ASCII portrait of Aswin P" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Aswin P — Full Stack Software Engineer" /></td>
+  </tr>
+</table>
 
-### 🌍 About Me
+<br>
 
-* 📍 Based in **Palakkad, Kerala, India**
-* 💼 Experience: **Software Engineer (Frontend + Backend)**
-* 🧠 Currently learning **Python, Django & Advanced Backend Systems**
-* 🔐 Strong focus on **Application Security & Authentication Systems**
-* 🤝 Open to **Frontend / Full-Stack opportunities and collaborations**
+<h3><code>aswin@github ~ $ cat contact.txt</code></h3>
 
----
+<a href="mailto:achuaswinakshaya@gmail.com"><img src="https://img.shields.io/badge/Email-achuaswinakshaya%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39d353&labelColor=161b22" alt="Email" /></a>
+<a href="https://linkedin.com/in/aswin187"><img src="https://img.shields.io/badge/LinkedIn-aswin187-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=161b22" alt="LinkedIn" /></a>
 
-### ⚡ Tech Stack
-
-#### 💻 Frontend
-
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5, CSS3
-* Tailwind CSS, Bootstrap
-* Redux
-
-#### ⚙️ Backend
-
-* Node.js
-* Express.js
-* PHP
-
-#### 🗄️ Databases
-
-* MongoDB
-* MySQL
-* PostgreSQL
-
-#### 🛠️ Tools & Practices
-
-* Git & GitHub
-* Docker, XAMPP
-* REST APIs
-* Agile Scrum, SDLC
-* Unit Testing
-* Secure Authentication Systems
-
----
-
-### 📫 Connect With Me
-
-* 📧 **Email:** [achuaswinakshaya@gmail.com](mailto:achuaswinakshaya@gmail.com)
-* 💼 **LinkedIn:** https://linkedin.com/in/aswin187
-* 💻 **GitHub:** https://github.com/Aswin187
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aswin187&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin187&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Aswin187&theme=react-dark&hide_border=true" />
-</p>
+</div>

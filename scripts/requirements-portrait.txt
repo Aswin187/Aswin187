@@ -1,0 +1,6 @@
+# Only needed locally when you change your photo (not used by the daily workflow)
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
