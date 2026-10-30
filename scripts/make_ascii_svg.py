@@ -14,7 +14,7 @@ import numpy as np
 from PIL import Image, ImageFilter, ImageOps
 
 RAMP = " .`:-=+*cs#%@"  # bright (sparse) -> dark (dense)
-COLS = 110
+COLS = 74
 GAMMA = 1.35  # >1 deepens mid-tones so facial features read clearly
 FONT = 10
 CW = FONT * 0.6  # monospace advance width
