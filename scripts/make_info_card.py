@@ -12,9 +12,9 @@ HOST = "github"
 
 # (key, value) rows. A key of None draws a blank spacer line.
 ROWS = [
-    ("Role", "Full Stack Software Engineer · 4+ yrs"),
-    ("Now", "Software Engineer @ KurlTech Systems"),
-    ("Prev", "HR Geckos (US, remote) · Chillar Payment"),
+    ("Role", "Senior Software Engineer · 4+ yrs"),
+    ("Now", "Senior Software Engineer @ UK-based company"),
+    ("Prev", "KurlTech Systems · HR Geckos (US, remote)"),
     ("Location", "Palakkad, Kerala, India"),
     (None, None),
     ("Core", "React · Next.js · TypeScript · Node.js"),
