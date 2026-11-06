@@ -1,6 +1,6 @@
 {
  "user": "Aswin187",
- "fetched_at": "2026-11-05T14:46:07+00:00",
+ "fetched_at": "2026-11-06T14:24:33+00:00",
  "days": [
   {
    "date": "2025-11-02",
@@ -1844,20 +1844,25 @@
   },
   {
    "date": "2026-11-05",
+   "count": 1,
+   "level": 4
+  },
+  {
+   "date": "2026-11-06",
    "count": 0,
    "level": 0
   }
  ],
  "stats": {
-  "total": 20,
-  "current_streak": 6,
-  "longest_streak": 6,
+  "total": 21,
+  "current_streak": 7,
+  "longest_streak": 7,
   "best_day": {
    "date": "2026-03-21",
    "count": 2,
    "level": 4
   },
-  "active_days": 16,
+  "active_days": 17,
   "monthly": {
    "2025-11": 0,
    "2025-12": 0,
@@ -1871,7 +1876,7 @@
    "2026-08": 3,
    "2026-09": 0,
    "2026-10": 3,
-   "2026-11": 4
+   "2026-11": 5
   }
  }
 }
