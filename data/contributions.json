@@ -1,42 +1,7 @@
 {
  "user": "Aswin187",
- "fetched_at": "2026-11-21T14:46:49+00:00",
+ "fetched_at": "2026-11-22T14:43:13+00:00",
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1854,20 +1819,25 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 4
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
  ],
  "stats": {
-  "total": 36,
-  "current_streak": 22,
-  "longest_streak": 22,
+  "total": 37,
+  "current_streak": 23,
+  "longest_streak": 23,
   "best_day": {
    "date": "2026-03-21",
    "count": 2,
    "level": 4
   },
-  "active_days": 32,
+  "active_days": 33,
   "monthly": {
    "2025-11": 0,
    "2025-12": 0,
@@ -1881,7 +1851,7 @@
    "2026-08": 3,
    "2026-09": 0,
    "2026-10": 3,
-   "2026-11": 20
+   "2026-11": 21
   }
  }
 }
